@@ -11,3 +11,6 @@ Dados da Central de Risco do Banco Central do Brasil. <br><br>
 O Processo de ETL foi desenvolvido em python com a criação da DW no MariaDb, a documentação está disponível no diretório DW desse repositório; <br>
 A etapa de Data viz foi construida no Power Bi <br><br>
 https://app.powerbi.com/view?r=eyJrIjoiMWM5YWM5OTMtZjI1MC00NWVlLWJiMmEtMjFhOTJjN2VkMWMzIiwidCI6IjNhOGNkMDAyLTMzMDktNGMyZC04ZTQ4LWQ2YTRmMDAwZWJkYSJ9
+
+### Análise SCR
+Ensaios comparando dados entre os anos de 2022 e 2024 para evoluir cálculo do credit score.
